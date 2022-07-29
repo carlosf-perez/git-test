@@ -1,1 +1,2 @@
-This is a new file
+This is a new file we are going to update
+Feature B updated this file
